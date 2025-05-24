@@ -1,0 +1,9 @@
+[project]
+name = "json-schema-generator"
+version = "0.1.0"
+description = "Generate json-schema from json"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "orjson>=3.10.18",
+]
